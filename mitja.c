@@ -6,7 +6,7 @@ int main() {
 	float nou_valor;
 	int numero_repeticions=0;
 	char consulta='s';
-	rr
+	rrs
 	while(consulta=='s'){
 		printf("Dona la seguent dada: ");
 		scanf("%f",&nou_valor);
