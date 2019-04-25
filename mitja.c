@@ -1,12 +1,12 @@
 #include <stdio.h>
-d
+dd
 int main() {
 	float suma=0;
 	float mitja;
 	float nou_valor;
 	int numero_repeticions=0;
 	char consulta='s';
-
+	rr
 	while(consulta=='s'){
 		printf("Dona la seguent dada: ");
 		scanf("%f",&nou_valor);
