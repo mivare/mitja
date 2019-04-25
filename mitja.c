@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+d
 int main() {
 	float suma=0;
 	float mitja;
